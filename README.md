@@ -1,7 +1,5 @@
 # SwingBuilder
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 SwingBuilder is a library that makes it possible to create a basic Swing UI using nothing but JSON.
 
 My insperation behind this project was to make it easier to create simple swing applications since I prefer JavaFX.
